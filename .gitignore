@@ -31,7 +31,7 @@ Thumbs.db
 .vscode/
 *.swp
 
-# ai / agent tooling
+# env agent
 .claude/
 .cursor/
 AGENTS.md
