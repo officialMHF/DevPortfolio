@@ -87,7 +87,7 @@ function ProjectCard({ project }: { project: Project }) {
                 <p className="text-base font-bold uppercase tracking-wide text-foreground">
                   {s.value}
                 </p>
-                <p className="text-xs font-medium text-muted">{s.label}</p>
+                <p className="text-xs font-medium capitalize text-muted">{s.label}</p>
               </div>
             ))}
           </div>
